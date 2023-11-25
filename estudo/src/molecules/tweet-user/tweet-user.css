@@ -1,0 +1,16 @@
+.tweetUser {
+    display: flex;
+    flex-direction: row;
+}
+
+.userName {
+    margin-left: 20px;
+}
+
+.userID {
+    margin-left: 20px;
+}
+
+.userDate {
+    margin-left: 10px;
+}

@@ -1,0 +1,5 @@
+.tweet {
+    max-width: 600px;
+    border: 1px solid rgba(187, 175, 175, 0.404);
+    padding: 10px 15px;
+}

@@ -1,5 +1,23 @@
 .analytics {
     display: flex;
     flex-direction: row;
-    margin-left: 15px;
+    align-items: center;
+    margin-top: 20px;
 }
+
+.analyticsInfo {
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+}
+
+.analyticsMark {
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+}
+
+.analyticsMarkStyle {
+    margin-left: 30px;
+}
+

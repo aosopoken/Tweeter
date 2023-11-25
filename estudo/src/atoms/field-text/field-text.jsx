@@ -1,11 +1,12 @@
 import React from "react";
+import "./field-text.css"
 
 const FieldText = (props) => {
     return(
-        <div>
+        <>
+            <img className="fieldImage" src={props.fieldImage} />
             {props.text}
-            <img src={props.image} />
-        </div>
+        </>
     )
 }
 

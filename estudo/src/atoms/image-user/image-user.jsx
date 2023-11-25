@@ -1,10 +1,9 @@
 import React from "react";
+import "./image-user.css"
 
 const ImageUser = (props) => {
     return (
-        <div>
-            <img src={props.image} />
-        </div>
+        <img className="userImage" src={props.userImage} />
     )
 }
 

@@ -6,6 +6,12 @@ const App = () => {
   return (
     <div>
       <Tweet />
+      <Tweet />
+
+      
+      <Tweet />
+      <Tweet />
+      <Tweet />
     </div>
   );
 }
